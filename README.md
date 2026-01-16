@@ -17,15 +17,15 @@ Dataset contain 10000 rows and 12 Columns [Brand, Year, Price, Mileage, Transmis
 
 ***Analysis Hilights***
 
-***.*** Mercedes-Benz is the more in UAE used car market
+ Mercedes-Benz is the more in UAE used car market
 
-***.***Location wise distribution of car is more in Dubai emirites.
+Location wise distribution of car is more in Dubai emirites.
 
-***.***Dealers should prioritize inventory and marketing in Dubai for faster turnover.
+Dealers should prioritize inventory and marketing in Dubai for faster turnover.
 
-***.***sellers can focuses on gasoline vehicles for a better turnover.
+sellers can focuses on gasoline vehicles for a better turnover.
 
-***.***Low mileage cars having higher price how ever 
+Low mileage cars having higher price how ever 
 
 ***Tools used***
 
