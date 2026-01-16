@@ -15,7 +15,7 @@ To extract actionable insights for both buyers and sellers”
 
 Dataset contain 10000 rows and 12 Columns [Brand, Year, Price, Mileage, Transmission type, Colour, Location ,Discription, and other attributes ]
 
-***Analysis Hilights***
+***Analysis Highlights***
 
  Mercedes-Benz is the more in UAE used car market
 
