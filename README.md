@@ -35,5 +35,6 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
 
 The project analyzed the UAE used car market to identify how factors like brand, mileage, location, and year affect car prices, helping buyers and sellers make better decisions.
 
-***Author:***Fathima Shifana S
+***Author:***
+Fathima Shifana S
 
